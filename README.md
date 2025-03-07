@@ -6,6 +6,12 @@ Bem-vindo ao repositório do front-end da Pride Modas, uma loja online dedicada 
 
 A Pride Modas é mais do que uma loja de roupas. É um espaço onde a diversidade é celebrada e a autoexpressão é incentivada. Nosso objetivo é criar uma plataforma online que ofereça uma experiência de compra inclusiva, confortável e inspiradora.
 
+## Implantação
+
+Este projeto está hospedado na **Vercel**. Você pode acessá-lo em:
+
+Site Pride Modas : https://pride-modas-ecommerce.vercel.app/
+
 ## Tecnologias Utilizadas
 
 * **Next.js:** Framework React para renderização do lado do servidor (SSR) e otimização de SEO.
